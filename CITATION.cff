@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+title: "Deep Learning for Cancer Type Identification from RNA-Seq Gene Expression: A Comparison with ML"
+authors:
+  - family-names: Das
+    given-names: Mithun
+    affiliation: International American University
+  - family-names: Susom
+    given-names: Akbor Aziz
+    affiliation: University of Texas at San Antonio
+  - family-names: Al Maimun
+    given-names: Abdullah
+    affiliation: Lamar University
+  - family-names: Bhuiyan
+    given-names: Md Azmir
+    affiliation: San Francisco Bay University
+  - family-names: Hasan
+    given-names: Rakib
+    affiliation: Lamar University
+repository-code: "https://github.com/azmir9083/cancer-type-classification-rnaseq"
+keywords:
+  - deep learning
+  - gene expression
+  - RNA-Seq
+  - cancer classification
+  - neural network
+  - autoencoder
+preferred-citation:
+  type: conference-paper
+  title: "Deep Learning for Cancer Type Identification from RNA-Seq Gene Expression: A Comparison with ML"
+  authors:
+    - family-names: Das
+      given-names: Mithun
+    - family-names: Susom
+      given-names: Akbor Aziz
+    - family-names: Al Maimun
+      given-names: Abdullah
+    - family-names: Bhuiyan
+      given-names: Md Azmir
+    - family-names: Hasan
+      given-names: Rakib
+  collection-title: "2026 International Conference on Modern Sustainable Systems (CMSS)"
+  publisher:
+    name: IEEE
+  start: 1404
+  end: 1407
+  year: 2026
+  doi: 10.1109/CMSS69636.2026.11688231
