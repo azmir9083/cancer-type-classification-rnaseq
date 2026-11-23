@@ -69,7 +69,7 @@ We re-ran all three experiments with the code in this repository on the real UCI
 
 ### MLP confusion matrix (one 5-fold run, all 801 samples)
 
-798 of 801 samples are classified correctly (accuracy 0.9975). The only errors are 2 lung (LUAD) samples predicted as breast (BRCA), the same breast–lung confusion described in the paper.
+799 of 801 samples are classified correctly (accuracy 0.9975). The only errors are 2 lung (LUAD) samples predicted as breast (BRCA), the same breast–lung confusion described in the paper.
 
 ![MLP confusion matrix](results/fig3_confusion_matrix.png)
 
