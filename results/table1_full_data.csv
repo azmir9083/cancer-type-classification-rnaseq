@@ -1,0 +1,8 @@
+,accuracy,accuracy,macro_f1,macro_f1
+,mean,std,mean,std
+model,,,,
+Linear SVM,1.0,0.0,1.0,0.0
+MLP,0.9983,0.0037,0.9986,0.0032
+Random Forest,0.9963,0.0046,0.9968,0.0039
+Autoencoder + softmax,0.9983,0.0029,0.9979,0.0038
+1D-CNN,0.9892,0.0076,0.9887,0.0084

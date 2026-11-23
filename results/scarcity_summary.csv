@@ -1,0 +1,19 @@
+model,n_train,mean,std
+Autoencoder + softmax,28,0.9751,0.0041
+Autoencoder + softmax,56,0.9917,0.0072
+Autoencoder + softmax,112,0.9931,0.0024
+Autoencoder + softmax,224,0.9959,0.0041
+Autoencoder + softmax,392,0.9986,0.0024
+Autoencoder + softmax,560,1.0,0.0
+MLP,28,0.9668,0.0
+MLP,56,0.9903,0.0048
+MLP,112,0.9945,0.0048
+MLP,224,0.9972,0.0024
+MLP,392,0.9986,0.0024
+MLP,560,1.0,0.0
+Random Forest,28,0.9627,0.011
+Random Forest,56,0.9903,0.0024
+Random Forest,112,0.9959,0.0
+Random Forest,224,0.9959,0.0
+Random Forest,392,0.9959,0.0
+Random Forest,560,0.9959,0.0
