@@ -11,8 +11,8 @@ Code and summary for our paper published in the **Proceedings of the 2026 Intern
 
 - **Mithun Das**, School of Business, International American University, Los Angeles, CA
 - **Akbor Aziz Susom**, College of AI, Cyber and Computing, University of Texas at San Antonio, TX
-- **Abdullah Al Maimun**, Lamar University, Beaumont, TX
 - **Md Azmir Bhuiyan**, School of Engineering, San Francisco Bay University, Fremont, CA
+- **Abdullah Al Maimun**, Lamar University, Beaumont, TX
 - **Rakib Hasan**, Dept. of ECE, Lamar University, Beaumont, TX
 
 ## What the paper asks
@@ -105,7 +105,7 @@ If you use this work, please cite:
 ```bibtex
 @inproceedings{das2026deep,
   title     = {Deep Learning for Cancer Type Identification from RNA-Seq Gene Expression: A Comparison with ML},
-  author    = {Das, Mithun and Susom, Akbor Aziz and Al Maimun, Abdullah and Bhuiyan, Md Azmir and Hasan, Rakib},
+  author    = {Das, Mithun and Susom, Akbor Aziz and Bhuiyan, Md Azmir and Al Maimun, Abdullah and Hasan, Rakib},
   booktitle = {2026 International Conference on Modern Sustainable Systems (CMSS)},
   pages     = {1404--1407},
   year      = {2026},
