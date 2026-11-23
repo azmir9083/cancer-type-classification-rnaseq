@@ -1,9 +1,6 @@
 # Dataset (downloaded automatically, not committed)
 data/
 
-# Generated results
-results/
-
 # Python
 __pycache__/
 *.pyc
